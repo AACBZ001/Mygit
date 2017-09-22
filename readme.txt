@@ -1,1 +1,2 @@
-This is my first git_dir.
+This is my first git.
+Make a change here.
